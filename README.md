@@ -1,16 +1,39 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YousefAMovahed&style=flat-square" alt="Profile views" />
+</p>
 
-<!--
-**YousefAMovahed/YousefAMovahed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m Yousef Azizi Movahed
 
-Here are some ideas to get you started:
+**B.Sc. Computer Science Student at University of Tehran**  
+I am passionate about AI research and projects, particularly in Computer Vision and Reinforcement Learning. I aim to drive innovation in these fields and look forward to publishing academic papers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Key Skills
+
+- **Programming Languages:**  
+  - Python (NumPy, Pandas, OpenCV, PyTorch, TensorFlow, Matplotlib, Django)  
+  - C/C++ (arrays & pointers, multi-function style)  
+  - Front-End: HTML, CSS, Bootstrap  
+
+- **AI & Data:**  
+  - Machine Learning (ML)  
+  - Deep Learning  
+  - Reinforcement Learning (RL)  
+  - Computer Vision  
+  - Natural Language Processing (NLP)  
+
+---
+
+## 🎯 Short-Term Goal
+
+I am eager to engage in research and projects in AI, especially Computer Vision and Reinforcement Learning, and contribute innovative solutions, with a strong interest in academic work and publishing papers.
+
+---
+
+## 📫 Contact
+
+- Email: [azizi.movahed@ut.ac.ir](mailto:azizi.movahed@ut.ac.ir)  
+- Email: [azizimovahed20@gmail.com](mailto:azizimovahed20@gmail.com)  
+- LinkedIn: [ ]  
+- Website: [ ]
