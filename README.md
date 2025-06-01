@@ -12,9 +12,10 @@ Passionate about AI, especially Computer Vision , Image Processing , Machine Lea
 ## 🛠️ Key Skills
 
 - **Programming Languages:**  
-  - Python (NumPy, Pandas, OpenCV, PyTorch, TensorFlow, Matplotlib, Django)  
+  - Python (NumPy, Pandas, OpenCV, PyTorch, TensorFlow, Matplotlib)  
   - C/C++ (arrays & pointers, multi-function style,OOB)  
-  - Front-End: HTML, CSS, Bootstrap  
+  - Front-End: HTML, CSS, Bootstrap
+  - Back-End: PHP, Django
 
 - **AI & Data:**  
   - Machine Learning (ML)  
