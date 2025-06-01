@@ -12,14 +12,16 @@ Passionate about AI, especially Computer Vision , Image Processing , Machine Lea
 
 - **Programming Languages:**  
   - Python (NumPy, Pandas, OpenCV, PyTorch, TensorFlow, Matplotlib, Django)  
-  - C/C++ (arrays & pointers, multi-function style)  
+  - C/C++ (arrays & pointers, multi-function style,OOB)  
   - Front-End: HTML, CSS, Bootstrap  
 
 - **AI & Data:**  
   - Machine Learning (ML)  
   - Deep Learning  
   - Reinforcement Learning (RL)  
-  - Computer Vision  
+  - Computer Vision
+  - Image Processing
+  - The Internet of Things (IOT)
   - Natural Language Processing (NLP)  
 
 ---
