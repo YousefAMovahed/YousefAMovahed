@@ -5,8 +5,6 @@
 # 👋 Hi, I’m Yousef Azizi Movahed
 
 **B.Sc. Computer Science Student at University of Tehran**  
-
-Passionate about AI, especially Computer Vision , Image Processing , Machine Learning , Deep Learning and Reinforcement Learning.
 ---
 
 ## 🛠️ Key Skills
