@@ -28,7 +28,7 @@ Passionate about AI, especially Computer Vision , Image Processing , Machine Lea
 
 ---
 
-## 🎯 Short-Term Goal
+## 🎯 My Interests
 
 I am eager to engage in research and projects in AI, Computer Vision , Image Processing , Machine Learning , Deep Learning and Reinforcement Learning, and contribute innovative solutions, with a strong interest in academic work and publishing papers.
 
